@@ -57,7 +57,7 @@ Clonar o repositório
 - Reverter última migration criada `yarn typeorm migration:revert`
 
 ## Rodar os testes
-- yarn test -i
+- yarn test
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
