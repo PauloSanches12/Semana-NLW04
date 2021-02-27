@@ -52,12 +52,12 @@ Clonar o repositório
 - Inicie o servidor com `yarn dev`
 
 ## Migrations
-    - Criar migration `yarn typeorm migration:create -n <NomeDaMigration>`
-    - Rodar as migrations `yarn typeorm migration:run`
-    - Reverter última migration criada `yarn typeorm migration:revert`
+- Criar migration `yarn typeorm migration:create -n <NomeDaMigration>`
+- Rodar as migrations `yarn typeorm migration:run`
+- Reverter última migration criada `yarn typeorm migration:revert`
 
 ## Rodar os testes
-    - yarn test -i
+- yarn test -i
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
 
